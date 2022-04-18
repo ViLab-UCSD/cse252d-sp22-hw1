@@ -7,7 +7,7 @@
 3. Include all relevant information such as text answers, output images in notebook.
 4. **Academic integrity:** The homework must be completed individually.
 5.  (**Imp**) Correctly select pages for each answer on Gradescope to allow smooth grading.
-6. **Due date:** Assignments are due **Thu Apr 28, 11:59PM PST**.
+6. **Due date:** Assignments are due **Thu Apr 28, 11:59PM PDT**.
 7. Access this assignment by cloning this repository using,\
      ``git clone https://github.com/ViLab-UCSD/cse252d-sp22-hw1.git``\
     Note the changes in Github policy for cloning with personal access tokens [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
