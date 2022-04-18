@@ -52,6 +52,8 @@
 - You will be provided with a URL that you can open locally:\
     Click on the link and navigate to the Jupyter notebook.
 - If you cannot launch a pod, set up the environment following these [instructions](https://support.ucsd.edu/its?id=kb_article_view&sys_kb_id=cbb951c31b42a050df40ed7dee4bcb9e).
+- You can also launch a pod by logging in at https://datahub.ucsd.edu/hub and selecting the right environment:
+<img src="jupyterhub.png" width="400">
     
 ### 3. Setup library dependencies
 - Having created a conda environment, clone this repository using\
