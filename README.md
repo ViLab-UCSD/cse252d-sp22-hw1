@@ -71,6 +71,7 @@ On the ``dsmlp.ucsd.edu`` server, the datasets are located at
 - Q5:\
     `/datasets/cs252d-sp22-a00-public/sfmlearner_h128w416`\
     `/datasets/cs252d-sp22-a00-public/kitti`
+- You can also access the data on Canvas under Files.
 
 ### 5. How to run
 - Q1-Q4: SfM - Working folder: `./pyviso`
