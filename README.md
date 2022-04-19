@@ -37,7 +37,7 @@
     You will be provided with a URL that you can open locally.\
     In an opened notebook, change the kernel (Menu: **Kernel** -> **Change Kernel**) to the name of the conda env you just created (in this case `py36`).
     
-#### 2.2. [Option 2] On Data Science & Machine Learning Platform
+#### 2.2. [Option 2 Recommended] On Data Science & Machine Learning Platform
 - (local) **(IMPORTANT) Connect to [UCSD VPN](https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/index.html)**
 - (local) Login with your Active Directory credentials\
     `ssh {USERNAME}@dsmlp-login.ucsd.edu`
